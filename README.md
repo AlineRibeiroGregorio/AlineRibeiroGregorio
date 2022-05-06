@@ -1,0 +1,5 @@
+- 👋 Oi, meu Nome é Aline Ribeiro Gregório
+- 👀 Meus interesses principais são em programação Html,CSS, Scratch e JavaScript.
+- 🌱 No momento estou aprendendo a trabalhar com a disciolina de Pensamento Computacional 
+- 💞️ Aprenda ser feliz sozinha
+- 📫 aline.gregorio@escola.pr.gov.br
